@@ -269,10 +269,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🚨 Reporting Misuse
 
-If you become aware of misuse of this software, please report it:
-
-- **GitHub Issues**: [Report Abuse](https://github.com/your-username/voxai-studio/issues)
-- **Email**: abuse@voxai.studio (or your email)
+If you become aware of misuse of this software, please report it.
 
 We take misuse seriously and will take appropriate action.
 
@@ -300,14 +297,6 @@ We are committed to responsible AI development and use:
 
 ---
 
-## 📧 Contact
-
-- **Website**: https://voxai.studio (if available)
-- **GitHub**: https://github.com/your-username/voxai-studio
-- **Email**: contact@voxai.studio (or your email)
-- **Discord**: [Join our community](https://discord.gg/your-invite) (optional)
-
----
 
 ## 📊 Project Status
 
@@ -318,16 +307,6 @@ We are committed to responsible AI development and use:
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] **v1.1**: macOS and Linux support
-- [ ] **v1.2**: Real-time voice conversion
-- [ ] **v1.3**: Voice library management
-- [ ] **v2.0**: Cloud deployment option
-- [ ] **v2.1**: API for developers
-- [ ] **v2.2**: Plugin system
-
----
 
 ## 💖 Support This Project
 
@@ -337,7 +316,6 @@ If you find VoxAI Studio useful, please consider:
 - 🐛 **Report bugs** and suggest features
 - 📝 **Contribute** code or documentation
 - 💬 **Share** with others who might benefit
-- ☕ **Buy me a coffee** (optional donation link)
 
 ---
 
@@ -364,8 +342,3 @@ This is a powerful tool that can be used for both good and harm. Please:
 
 **You are solely responsible for how you use this software.**
 
----
-
-**Made with ❤️ by the VoxAI Team**
-
-*Empowering creators with ethical AI voice technology.*
