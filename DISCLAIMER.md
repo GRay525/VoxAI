@@ -634,28 +634,6 @@ Changes may be made to:
 
 ---
 
-## 📞 Contact Information
-
-### For Questions About This Disclaimer
-
-**General Inquiries:**
-- Email: legal@voxai.studio (or your email)
-- Subject: "Disclaimer Question"
-
-**Technical Support:**
-- GitHub Issues: https://github.com/your-username/voxai-studio/issues
-- Tag: "question" or "support"
-
-**Legal Matters:**
-- Email: legal@voxai.studio
-- Include: "Legal - [Brief Description]" in subject
-
-**Business Inquiries:**
-- Email: business@voxai.studio
-- For licensing, partnerships, commercial use
-
----
-
 ### For Rights Holders
 
 If your voice rights have been violated:
